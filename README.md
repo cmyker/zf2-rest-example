@@ -19,3 +19,13 @@ In your project root:
 Database schema is in data/shema.sql file. Create schema and configure database credentials in local.php file
 
     cp config/autoload/local.php.dist config/autoload/local.php
+
+### PHP CLI server
+
+The simplest way to get started if you are using PHP 5.4 or above is to start the internal PHP cli-server in the root
+directory:
+
+    php -S 0.0.0.0:8080 -t public/ public/index.php
+
+This will start the cli-server on port 8080, and bind it to all network
+interfaces.
