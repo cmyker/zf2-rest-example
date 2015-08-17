@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/skeleton-application",
+    "name": "zendframework/zf2-rest-example",
     "description": "Rest Application example for ZF2",
     "license": "BSD-3-Clause",
     "keywords": [
