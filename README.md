@@ -1,4 +1,4 @@
-ZendSkeletonApplication
+Zend Framework 2 RESTful application
 =======================
 
 Introduction
