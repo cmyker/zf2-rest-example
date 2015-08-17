@@ -6,6 +6,7 @@ Introduction
 This is a simple, RESTful application using the ZF2 MVC layer and module
 systems. This application is meant to be used as a starting place for those
 looking to get their feet wet with ZF2.
+Database schema is in data/shema.sql file.
 
 Installation using Composer
 ---------------------------
